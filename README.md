@@ -1,6 +1,6 @@
 # Hello world!👋, I'm Chen Ben Ami
 
-### A passionate Software Developer
+### A passionate Software Developer and a Computer Science and Mathematics BSc student.
 
 #### Connect with me:
 
