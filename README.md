@@ -1,10 +1,10 @@
-# Hello world!👋, I'm [Chen Ben Ami]
+# Hello world!👋, I'm Chen Ben Ami
 
-### A passionate [Software Developer]
+### A passionate Software Developer
 
 #### Connect with me:
 
-[https://www.linkedin.com/in/chen-ben-ami-486990177/]
+https://www.linkedin.com/in/chen-ben-ami-486990177/
 
 ![GitHub Snake dark](https://github.com/chenba12/chenba12/blob/output/github-snake-dark.svg#gh-dark-mode-only) 
 ![GitHub Snake light](https://github.com/chenba12/chenba12/blob/output/github-snake.svg#gh-light-mode-only) 
