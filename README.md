@@ -4,7 +4,7 @@
 
 #### Connect with me:
 
-https://www.linkedin.com/in/chen-ben-ami-486990177/
+[Linkedin](https://www.linkedin.com/in/chen-ben-ami-486990177/)
 
 ![GitHub Snake dark](https://github.com/chenba12/chenba12/blob/output/github-snake-dark.svg#gh-dark-mode-only) 
 ![GitHub Snake light](https://github.com/chenba12/chenba12/blob/output/github-snake.svg#gh-light-mode-only) 
