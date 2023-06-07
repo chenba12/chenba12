@@ -1,4 +1,4 @@
-# Hello world!👋, I'm Chen Ben Ami
+# Hello!👋, I'm Chen Ben Ami
 
 ### A passionate Software Developer and a Computer Science and Mathematics BSc student.
 
