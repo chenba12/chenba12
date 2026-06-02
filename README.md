@@ -1,10 +1,10 @@
 # Hello!👋, I'm Chen Ben Ami
 
-### A passionate Software Developer and a Computer Science and Mathematics BSc student.
+### Passionate Software Developer & Game Designer | BSc in Computer Science & Mathematics | Master’s Candidate in Digital Game Design & Development
 
 #### Connect with me:
 
-[Linkedin](https://www.linkedin.com/in/chen-ben-ami-486990177/)
+[Linkedin](https://www.linkedin.com/in/chen-ben-ami-62b839354/)
 
 
 
